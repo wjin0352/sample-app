@@ -1,0 +1,3 @@
+Make sure you're running rails -v to see if you have rails 4.0.8 running and ruby 2.0.0 before using rails new because if you have a newer rails version and then try to change the gemset to and older one after you create new app with a newer version of rails you will run into many errors! just start over and make sure you have the right version before creating a new rails app!
+
+Please feel free to use a different markup language if you do not plan to run rake doc:app.
